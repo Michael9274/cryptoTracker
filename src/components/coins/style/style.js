@@ -10,7 +10,8 @@ export const Main = styled.View`
 `;
 
 export const ArrowIndicator = styled.Image`
-  width: 10px;
+  width: 20px;
+  height: 20px;
   margin-left: 10px;
 `;
 
